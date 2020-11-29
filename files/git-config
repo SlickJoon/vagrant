@@ -1,0 +1,5 @@
+[core]
+	editor = \"C:\\JoonPark\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	email = slick_joon@yahoo.com
+	name = Joon Park
